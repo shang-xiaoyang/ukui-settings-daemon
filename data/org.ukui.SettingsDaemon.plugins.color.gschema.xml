@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema gettext-domain="ukui-settings-daemon" id="org.ukui.SettingsDaemon.plugins.color" path="/org/ukui/settings-daemon/plugins/color/">
+    <key name="active" type="b">
+      <default>true</default>
+      <summary>Activation of this plugin</summary>
+      <description>Whether this plugin would be activated by unity-settings-daemon or not</description>
+    </key>
+    <key name="priority" type="i">
+      <default>16</default>
+      <summary>Priority to use for this plugin</summary>
+      <description>Priority to use for this plugin in unity-settings-daemon startup queue</description>
+    </key>
+    <key name="night-light-enabled" type="b">
+      <default>false</default>
+      <summary>If the night light mode is enabled</summary>
+      <description>Night light mode changes the color temperature of your display when the sun has gone down or at preset times.</description>
+    </key>
+    <key name="night-light-temperature" type="u">
+      <default>5500</default>
+      <summary>Temperature of the display when enabled</summary>
+      <description>This temperature in Kelvin is used to modify the screen tones when night light mode is enabled. Higher values are bluer, lower redder.</description>
+    </key>
+    <key name="night-light-schedule-automatic" type="b">
+      <default>true</default>
+      <summary>Use the sunrise and sunset</summary>
+      <description>Calculate the sunrise and sunset times automatically, from the current location.</description>
+    </key>
+    <key name="night-light-schedule-from" type="d">
+      <default>20.00</default>
+      <summary>The start time</summary>
+      <description>When “night-light-schedule-automatic” is disabled, use this start time in hours from midnight.</description>
+    </key>
+    <key name="night-light-schedule-to" type="d">
+      <default>6.00</default>
+      <summary>The end time</summary>
+      <description>When “night-light-schedule-automatic” is disabled, use this end time in hours from midnight.</description>
+    </key>
+    <key name="night-light-last-coordinates" type="(dd)">
+      <default>(91,181)</default>
+      <summary>The last detected position</summary>
+      <description>When location services are available this represents the last detected location. The default value is an invalid value to ensure it is always updated at startup.</description>
+    </key>
+    <key name="night-light-allday" type="b">
+      <default>false</default>
+      <summary>Open night light all day</summary>
+      <description>(intel)At any time, night mode is open.</description>
+    </key>
+    <key name="theme-schedule-automatic" type="b">
+      <default>false</default>
+      <summary>Use the sunrise and sunset to set theme</summary>
+      <description>(intel)Calculate the sunrise and sunset times, and set the theme automatically.</description>
+    </key>
+    <key name="night-light-schedule-automatic-from" type="d">
+      <default>18.00</default>
+      <summary>The start time</summary>
+      <description>(intel)When “night-light-schedule-automatic” is enabled, calculate this start time in hours from midnight.</description>
+    </key>
+    <key name="night-light-schedule-automatic-to" type="d">
+      <default>7.00</default>
+      <summary>The end time</summary>
+      <description>(intel)When “night-light-schedule-automatic” is enabled, calculate this end time in hours from midnight.</description>
+    </key>
+    <key name="had-read-kwin-config" type="b">
+      <default>false</default>
+      <summary>Use the read kwin config</summary>
+      <description>.</description>
+    </key>
+    <key name="dark-mode" type="b">
+      <default>false</default>
+      <summary>Use set dark mode</summary>
+      <description>.</description>
+    </key>
+    <key name="style-name-dm" type="s">
+      <default>''</default>
+      <summary>Use record theme style,when dark mode is true record the /org/ukui/style's key style-name,when dark mode is false set this value to the style-name.</summary>
+      <description>.</description>
+    </key>
+    <key name="night-light-enabled-dm" type="b">
+      <default>false</default>
+      <summary>If the night light mode is enabled</summary>
+      <description>Use record theme style,when dark mode is true record the night-light-enabled,when dark mode is false set this value to it.</description>
+    </key>
+    <key name="night-light-allday-dm" type="b">
+      <default>false</default>
+      <summary>Open night light all day</summary>
+      <description>Use record theme style,when dark mode is true record the night-light-allday,when dark mode is false set this value to it.</description>
+    </key>
+    <key name="night-light-schedule-automatic-dm" type="b">
+      <default>false</default>
+      <summary>Use the sunrise and sunset to set theme</summary>
+      <description>Use record theme style,when dark mode is true record the night-light-schedule-automatic,when dark mode is false set this value to it.</description>
+    </key>
+    <key name="theme-schedule-automatic-dm" type="b">
+      <default>false</default>
+      <summary>Use the sunrise and sunset to set theme</summary>
+      <description>Use record theme style,when dark mode is true record the theme-schedule-automatic,when dark mode is false set this value to it.</description>
+    </key>
+  </schema>
+</schemalist>

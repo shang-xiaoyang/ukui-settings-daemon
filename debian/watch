@@ -1,0 +1,2 @@
+version=4
+https://github.com/ukui/ukui-settings-daemon/releases .*/ukui-settings-daemon_(\d\S+)\.orig\.tar\.gz

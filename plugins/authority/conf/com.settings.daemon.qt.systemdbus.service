@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.settings.daemon.qt.systemdbus
+Exec=/usr/bin/authoritydbus
+User=root

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>i18n/ukui-settings-daemon_bo_CN.qm</file>
+        <file>i18n/ukui-settings-daemon_zh_CN.qm</file>
+    </qresource>
+</RCC>

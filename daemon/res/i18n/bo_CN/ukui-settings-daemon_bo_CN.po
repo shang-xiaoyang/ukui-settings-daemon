@@ -1,0 +1,829 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Aron Xu <happyaron.xu@gmail.com>, 2009
+# by Abel Cheung <maddog@linuxhall.org>, 2001
+# Deng Xiyue <manphiz@gmail.com>, 2009
+# Cravix <dr.neemous@gmail.com>, 2013
+# nyanyh <rebuilty@gmail.com>, 2013
+# He Qiangqiang <carton@linux.net.cn>, 2002
+# liushuyu011 <liushuyu011@gmail.com>, 2016
+# Sun G11n <mate_int_l10n@ireland.sun.com>, 2002
+# Tao Wang <dancefire@gmail.com>, 2010
+# Tao Wei <weitao1979@gmail.com>, 2009
+# vicwjb <vicwjb@gmail.com>, 2010
+# Wylmer Wang, 2013
+# павел назаров <nazar12101@gmail.com>, 2016
+# 甘 露 <rhythm.gan@gmail.com>, 2009
+# Mingcong Bai <jeffbai@aosc.xyz>, 2015
+# Shang Xiaooyang <shangxiaoyang@kylinos..cn>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: UKUI Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-14 14:02+0800\n"
+"PO-Revision-Date: 2022-08-22 07:32+0000\n"
+"Last-Translator: 三聚氰胺 <sundagao@kylinos.cn>\n"
+"Language-Team: Tibetan (China) <http://weblate.openkylin.top/projects/"
+"ukui-settings-daemon/ukui-settings-daemon-po/bo_CN/>\n"
+"Language: bo_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12.1-dev\n"
+
+#: ../data/50-accessibility.xml.in.h:1
+msgid "Accessibility"
+msgstr "ཞུགས་ཆོག་པའི་རང་བཞིན།"
+
+#: ../data/50-accessibility.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:53
+msgid "Toggle magnifier"
+msgstr "ཆེ་ཤེལ་ཆེ་གྲས་ཀྱི་ཆེ་རུ་གཏོང་དགོས།"
+
+#: ../data/50-accessibility.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:55
+msgid "Toggle screen reader"
+msgstr "བརྙན་ཤེལ་ཀློག་མཁན་ལ་མིག་གིས་ལྟ་རུ་འཇུག་དགོས།"
+
+#: ../data/50-accessibility.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:57
+msgid "Toggle on-screen keyboard"
+msgstr "བརྙན་ཤེལ་སྟེང་གི་མཐེབ་གཞོང་།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:1
+msgid "On-screen keyboard"
+msgstr "བརྙན་ཤེལ་གྱི་མཐེབ་གཞོང་།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:2
+msgid "Whether the on-screen keyboard is turned on."
+msgstr "བརྙན་ཤེལ་གྱི་མཐེབ་གཞོང་ཁ་ཕྱེ་ཡོད་མེད།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:3
+msgid "Screen magnifier"
+msgstr "བརྙན་ཤེལ་གྱི་ཆེ་ཤེལ་འཕྲུལ་ཆས།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:4
+msgid "Whether the screen magnifier is turned on."
+msgstr "བརྙན་ཤེལ་གྱི་ཆེ་ཤེལ་ཁ་ཕྱེ་ཡོད་མེད།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:5
+msgid "Screen reader"
+msgstr "བརྙན་ཤེལ་ཀློག་པ་པོ།"
+
+#: ../data/org.ukui.applications-at.gschema.xml.in.h:6
+msgid "Whether the screen reader is turned on."
+msgstr "བརྙན་ཤེལ་ཀློག་མཁན་གྱི་ཁ་ཕྱེ་ཡོད་མེད།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:1
+msgid "DPI"
+msgstr "DPI"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:2
+msgid ""
+"The resolution used for converting font sizes to pixel sizes, in dots per "
+"inch."
+msgstr ""
+"ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་དེ་པར་རིས་ཀྱི་ཆེ་ཆུང་དུ་བསྒྱུར་བར་སྤྱོད་པའི་གྲོས་ཆོད་དེ་"
+"དབྱིན་ཚུན་རེར་ཚེག་རྡར་བྱས་ནས་ཚེག་རྡར་བྱས་ཏེ་ཚེག་རྡ"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:3
+msgid "Antialiasing"
+msgstr "ངོ་རྒོལ་བྱེད་པ།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:4
+msgid ""
+"The type of antialiasing to use when rendering fonts. Possible values are: "
+"\"none\" for no antialiasing, \"grayscale\" for standard grayscale "
+"antialiasing, and \"rgba\" for subpixel antialiasing (LCD screens only)."
+msgstr ""
+"ཡིག་གཟུགས་བསྒྱུར་སྐབས་བཀོལ་སྤྱོད་བྱེད་པར་ངོ་རྒོལ་བྱེད་པའི་རིགས་ཤིག་ཡིན། "
+"འབྱུང་སྲིད་པའི་རིན་ཐང་ལྟ་བ་ནི་\"གཅིག་ཀྱང་མེད་\"ཅ"
+"ེས་པ་ནི་ཚད་ལྡན་གྱི་ཐལ་མདོག་ལ་ངོ་རྒོལ་བྱེད་པའི་\"ཐལ་མདོག་\"དང་\" rgba\"ལ"
+"་ངོ་རྒོལ་བྱེད་པའི་\"LCDབརྙན་ཤེལ་ཁོ་ན་\"ཡིན།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:5
+msgid "Hinting"
+msgstr "ལྐོག་བརྡ་གཏོང་བ།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:6
+msgid ""
+"The type of hinting to use when rendering fonts. Possible values are: \"none"
+"\" for no hinting, \"slight\" for basic, \"medium\" for moderate, and \"full"
+"\" for maximum hinting (may cause distortion of letter forms)."
+msgstr ""
+"ཡིག་གཟུགས་བསྒྱུར་སྐབས་བཀོལ་སྤྱོད་བྱེད་དགོས་པའི་བརྡ་གཏོང་བའི་རིགས་ཤིག་ཡིན། "
+"འབྱུང་སྲིད་པའི་རིན་ཐང་ལྟ་བ་ནི་\"གཅིག་ཀྱང་མེད་\"ཅེས་པ་ནི་\"གཅིག་ཀྱང་མེད་\"ཅ"
+"ེས་པ་དང་། \"ཕྲན་བུ་\"དང་། གཞི་རྩའི་\"འབྲིང་རིམ་\"། ཚད་གཞི་མཐོ་ཤོས་ཀྱི་སྒོ་ནས་"
+"\"ཆ་ཚང་བ་\"བཅས་ཡིན། (འཕྲིན་ཡིག་གི་རེའུ་མིག་ལ་འཁྱོག་བཤད།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:7
+msgid "RGBA order"
+msgstr "མི་དམངས་ཤོག་སྒོར་གྱི་མངགས་ཐོ།"
+
+#: ../data/org.ukui.font-rendering.gschema.xml.in.h:8
+msgid ""
+"The order of subpixel elements on an LCD screen; only used when antialiasing "
+"is set to \"rgba\". Possible values are: \"rgb\" for red on left (most "
+"common), \"bgr\" for blue on left, \"vrgb\" for red on top, \"vbgr\" for red "
+"on bottom."
+msgstr ""
+"LCDབརྙན་ཤེལ་སྟེང་གི་ཆེས་ཆུང་བའི་རྒྱུ་རྐྱེན་གཙོ་བོའི་གོ་རིམ། \"rgba\"ལ"
+"་ངོ་རྒོལ་བྱེད་པའི་དུས་སུ་ད་གཟོད་བཀོལ་སྤྱོད་བྱེད་ཐུབ། "
+"འབྱུང་སྲིད་པའི་རིན་ཐང་ལྟ་བ་ནི་\"rgb\"ན"
+"ི་གཡོན་ཕྱོགས་ཀྱི་དམར་པོ་(ཆེས་རྒྱུན་མཐོང་གི་སྣང་ཚུལ་)དང་། "
+"གཡོན་ཕྱོགས་ཀྱི་ཁ་དོག་སྔོན་པོའི་\"bgr\"། \"vrgb\"བཅས་ཡིན།"
+
+#: ../data/org.ukui.peripherals-smartcard.gschema.xml.in.h:1
+msgid "Smartcard removal action"
+msgstr "རིག་ནུས་བྱང་བུ་མེད་པར་བཟོ་བའི་"
+
+#: ../data/org.ukui.peripherals-smartcard.gschema.xml.in.h:2
+msgid ""
+"Set this to one of \"none\", \"lock_screen\", or \"force_logout\". The "
+"action will get performed when the smartcard used for log in is removed."
+msgstr ""
+"དེ་\"གཅིག་ཀྱང་མེད་\"ཅེས་པ་དང་། \"lock_screen་\"དང་ཡང་ན་\"force_logout་\"ག"
+"ྲས་ཤིག་ལ་གཏན་འཁེལ་བྱས་པ་རེད། ཐོ་འགོད་བྱེད་པར་སྤྱོད་པའི་རིག་ནུས་བྱང་བུ་མེད་པར་"
+"བཟོས་རྗེས་འགུལ་སྐྱོད་འདི་ལག་བསྟར་བྱེད་རྒྱུ་རེད།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:1
+msgid "Disable touchpad while typing"
+msgstr "ཡི་འཇུག་བྱེད་སྐབས་ལག་ཐོགས་ཁ་པར་གྱི་ལག་ཐོགས་ཁ་པར་གྱི་"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:2
+msgid ""
+"Set this to TRUE if you have problems with accidentally hitting the touchpad "
+"while typing."
+msgstr ""
+"གལ་ཏེ་ཁྱོད་ཀྱིས་ཡི་གཏག་སྐབས་སེམས་ཆུང་མ་བྱས་པར་ལག་ཐོགས་ཁ་པར་ལ་བརྡབས་ན་གནད་དོན་"
+"འདི་TRUEལ་གཏན་འཁེལ་བྱ་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:3
+msgid "Enable mouse clicks with touchpad"
+msgstr "ལག་ཐོགས་ཁ་པར་སྤྱད་དེ་བྱི་བའི་མཐེབ་གནོན་བྱེད་ཐུབ"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:4
+msgid ""
+"Set this to TRUE to be able to send mouse clicks by tapping on the touchpad."
+msgstr "འདི་TRUEལ་གཏན་འཁེལ་བྱས་ན་ད་གཟོད་ལག་ཐོགས་ཁ་པར་གྱི་མཐིལ་རྟོགས་བྱེད་ཐུབ།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:5
+msgid "Enable vertical edge scrolling"
+msgstr "གཞུང་ཕྱོགས་ནས་མཐའ་འཁོར་དུ་ཕར་འགྲོ་ཚུར་འོང་བྱེད་དུ་འཇུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:6
+msgid "Set this to TRUE to allow vertical edge scrolling"
+msgstr "འདི་TRUEལ་གཏན་འཁེལ་བྱས་ནས་དྲང་འཕྱང་གི་མཐའ་ལ་འགྲིལ་དུ་འཇུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:7
+msgid "Enable horizontal edge scrolling"
+msgstr "འཕྲེད་ཕྱོགས་ཀྱི་མཐའ་ལ་ཕར་འགྲོ་ཚུར་འོང་བྱེད་དུ་འཇུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:8
+msgid "Set this to TRUE to allow horizontal edge scrolling"
+msgstr ""
+"འདི་TRUEལ་གཏན་འཁེལ་བྱས་ནས་འཕྲེད་ཕྱོགས་ཀྱི་མཐའ་ལ་ཕར་འགྲོ་ཚུར་འོང་བྱེད་དུ་འཇུག་"
+"དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:9
+msgid "Enable vertical two-finger scrolling"
+msgstr "གཞུང་ཕྱོགས་ནས་ལག་པ་གཉིས་ཀྱིས་ལག་པ་གཉིས་ལ་འཁོར་སྐྱོད་བྱེད་དུ་འཇུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:10
+msgid "Set this to TRUE to allow vertical two-finger scrolling"
+msgstr ""
+"འདི་TRUEལ་གཏན་འཁེལ་བྱས་ནས་དྲང་འཕྱང་གི་མཛུབ་མོ་གཉིས་ལ་འདྲེད་ཤུད་བྱེད་དུ་འཇུག་ད"
+"གོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:11
+msgid "Enable horizontal two-finger scrolling"
+msgstr "འཕྲེད་ཕྱོགས་ཀྱི་མཛུབ་མོ་གཉིས་ལ་ཞིབ་བཤེར་བྱེད་དུ་འཇུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:12
+msgid "Set this to TRUE to allow horizontal two-finger scrolling"
+msgstr ""
+"འདི་TRUEལ་གཏན་འཁེལ་བྱས་ནས་འཕྲེད་ཕྱོགས་ཀྱི་མཛུབ་མོ་གཉིས་ལ་འདྲེད་ཤུད་བྱེད་དུ་འཇ"
+"ུག་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:13
+msgid "Natural scrolling"
+msgstr "རང་བྱུང་གི་ཤོག་ལྷེ།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:14
+msgid "Set this to true to enable natural (reverse) scrolling for touchpads"
+msgstr ""
+"དོན་དངོས་སུ་གཏན་འཁེལ་བྱས་ན་ད་གཟོད་རེག་ཐུག་ལ་རང་བྱུང་(ལྡོག་ཕྱོགས་)འཁོར་སྐྱོད་བ"
+"ྱེད་ཐུབ།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:15
+msgid "Enable touchpad"
+msgstr "ལག་ཐོགས་ཁ་པར་སྤྱོད་ཐུབ་པ"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:16
+msgid "Set this to TRUE to enable all touchpads."
+msgstr "འདི་TRUEལ་གཏན་འཁེལ་བྱས་ན་ད་གཟོད་ལག་ཐོགས་ཁ་པར་ཡོད་ཚད་འདོན་ཐུབ།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:17
+msgid "Enabled two-finger button-click emulation"
+msgstr "ལག་པ་གཉིས་ཀྱི་མཐེབ་གཅུས་ལད་མོ་བྱེད་ཐུབ་པ་བྱུང་།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:18
+msgid "0 thru 3, 0 is inactive, 1-3 is button to emulate"
+msgstr "0 3, 0 འགུལ་སྐྱོད་མི་བྱེད་པ། 1-3ནི་ལད་མོ་བྱེད་པའི་སྒྲོག་གུ་ཡིན།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:19
+msgid "Enable three-finger button-click emulation"
+msgstr "ལག་པ་གསུམ་གྱི་མཐེབ་གཅུས་ལད་མོ་བྱེད་ཐུབ་པར་བྱ་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:20
+msgid "One finger tap button"
+msgstr "མཛུབ་མོ་གཅིག་གི་མཐེབ་གཅུས"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:21
+msgid ""
+"Select the button mapping for one-finger tap. Supported values are: 1: left "
+"mouse button 2: middle mouse button 3: right mouse button"
+msgstr ""
+"མཐེབ་གཅུས་ཐིག་ལེན་རིས་འབྲི་བྱས་ནས་ལག་པ་གཅིག་གིས་ཐིག་ལེན་རིས་འབྲི་བྱེད "
+"རྒྱབ་སྐྱོར་བྱས་པའི་རིན་ཐང་ནི། 1:གཡོན་གྱི་བྱི་བའི་སྒྲོག་གུ་2:དཀྱིལ་གྱི་བྱི་བའི"
+"་སྒྲོག་གུ་3:གཡས་ཀྱི་བྱི་བའི་སྒྲོག་གུ"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:22
+msgid "Two finger tap button"
+msgstr "མཛུབ་མོ་གཉིས་ཀྱི་མཐེབ་གཅུས"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:23
+msgid ""
+"Select the button mapping for two-finger tap. Supported values are: 1: left "
+"mouse button 2: middle mouse button 3: right mouse button"
+msgstr ""
+"མཐེབ་གཅུས་ཐིག་ལེན་རིས་འབྲི་བྱས་ནས་མཛུབ་མོ་གཉིས་ཀྱི་ཐིག་ལེན་རིས་འབྲི་ "
+"རྒྱབ་སྐྱོར་བྱས་པའི་རིན་ཐང་ནི། 1:གཡོན་གྱི་བྱི་བའི་སྒྲོག་གུ་2:དཀྱིལ་གྱི་བྱི་བའི"
+"་སྒྲོག་གུ་3:གཡས་ཀྱི་བྱི་བའི་སྒྲོག་གུ"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:24
+msgid "Three finger tap button"
+msgstr "མཛུབ་མོ་གསུམ་གྱི་མཐེབ་གཅུས"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:25
+msgid ""
+"Select the button mapping for three-finger tap. Supported values are: 1: "
+"left mouse button 2: middle mouse button 3: right mouse button"
+msgstr ""
+"མཐེབ་གཅུས་ཐིག་ལེན་རིས་འབྲི་བྱས་ནས་མཛུབ་མོ་གསུམ་གྱི་ཐིག་ལེན་རིས་འབྲི་ "
+"རྒྱབ་སྐྱོར་བྱས་པའི་རིན་ཐང་ནི། 1:གཡོན་གྱི་བྱི་བའི་སྒྲོག་གུ་2:དཀྱིལ་གྱི་བྱི་བའི"
+"་སྒྲོག་གུ་3:གཡས་ཀྱི་བྱི་བའི་སྒྲོག་གུ"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:26
+msgid "Touchpad button orientation"
+msgstr "ལག་ཐོགས་ཁ་པར་གྱི་མཐེབ་གཅུས"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:27
+msgid ""
+"Swap left and right buttons for left-handed touchpads with 'left', 'right' "
+"for right-handed, 'mouse' to follow the mouse setting."
+msgstr ""
+"གཡས་གཡོན་གྱི་མཐེབ་གཅུས་བརྗེ་རེས་བྱས་ནས་གཡོན་ལག་གི་ལག་ཐོགས་ཁ་པར་ལ་\"གཡོན་\"དང"
+"་། \"གཡས་\"ཀྱི་ལག་པ་གཡས་པ། \"བྱི་བ་\"བཅས"
+"་ཀྱིས་བྱི་བའི་སྒྲིག་བཀོད་ལ་བརྩི་སྲུང་བྱེད་དགོས།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:28
+msgid "Motion Acceleration"
+msgstr "འགུལ་སྐྱོད་ཀྱི་མྱུར་ཚད་ཇེ་མགྱོགས་"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:29
+msgid ""
+"Acceleration multiplier for touchpad motion. A value of -1 is the system "
+"default."
+msgstr ""
+"ལག་ཐོགས་ཁ་པར་གྱི་འགུལ་སྐྱོད་ལ་མགྱོགས་ཚད་ཇེ་མགྱོགས་སུ་གཏོང་དགོས། "
+"-1རི་བའི་རིན་ཐང་ནི་མ་ལག་གི་ཁ་ཆད་དང་འགལ་བ་རེད།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:30
+msgid "Motion Threshold"
+msgstr "འགུལ་སྐྱོད་ཀྱི་ཚད་གཞི།"
+
+#: ../data/org.ukui.peripherals-touchpad.gschema.xml.in.h:31
+msgid ""
+"Distance in pixels the pointer must move before accelerated touchpad motion "
+"is activated. A value of -1 is the system default."
+msgstr ""
+"མགྱོགས་མྱུར་ངང་འགུལ་སྐྱོད་བྱེད་པའི་སྔོན་ལ་ཕྱོགས་སྟོན་འཁོར་ལོ་ངེས་པར་དུ་འགུལ་ས"
+"ྐྱོད་བྱེད་དགོས། -1རི་བའི་རིན་ཐང་ནི་མ་ལག་གི་ཁ་ཆད་དང་འགལ་བ་རེད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-keyboard.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-settings.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.background.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.clipboard.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.datetime.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.keybindings.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.keyboard.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.mouse.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.mpris.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.smartcard.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.sound.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.typing-break.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.xrdb.gschema.xml.in.h:1
+#: ../data/org.ukui.SettingsDaemon.plugins.xsettings.gschema.xml.in.h:1
+msgid "Activation of this plugin"
+msgstr "གློག་སྒུལ་འཕྲུལ་འཁོར་འདིའི་འགུལ་སྐྱོད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-keyboard.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-settings.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.background.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.clipboard.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.datetime.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.keybindings.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.keyboard.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.mouse.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.mpris.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.smartcard.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.sound.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.typing-break.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.xrdb.gschema.xml.in.h:2
+#: ../data/org.ukui.SettingsDaemon.plugins.xsettings.gschema.xml.in.h:2
+msgid "Whether this plugin would be activated by ukui-settings-daemon or not"
+msgstr ""
+"གློག་སྒུལ་འཕྲུལ་འཁོར་འདི་དབྱིན་ཇིའི་སྒྲིག་བཀོད་ཀྱི་བུ་མོ་མོན་གྱིས་སྐུལ་སློང་བ"
+"ྱེད་ཐུབ་མིན་ལ་མ་བལྟོས་པར་ཚང་མས་སྐུལ་སློང་བྱེད་ཐུབ་མིན།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-keyboard.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-settings.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.background.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.clipboard.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.datetime.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.keybindings.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.keyboard.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:5
+#: ../data/org.ukui.SettingsDaemon.plugins.mouse.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.mpris.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.smartcard.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.sound.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.typing-break.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.xrdb.gschema.xml.in.h:3
+#: ../data/org.ukui.SettingsDaemon.plugins.xsettings.gschema.xml.in.h:3
+msgid "Priority to use for this plugin"
+msgstr "སྔོན་ལ་གློག་སྒུལ་འཕྲུལ་འཁོར་འདི་བཀོལ་སྤྱོད་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-keyboard.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.a11y-settings.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.background.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.clipboard.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.datetime.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.keybindings.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.keyboard.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:6
+#: ../data/org.ukui.SettingsDaemon.plugins.mouse.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.mpris.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.smartcard.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.sound.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.typing-break.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.xrdb.gschema.xml.in.h:4
+#: ../data/org.ukui.SettingsDaemon.plugins.xsettings.gschema.xml.in.h:4
+msgid "Priority to use for this plugin in ukui-settings-daemon startup queue"
+msgstr ""
+"ཝུའུ་ཁི་ལན་གྱི་སྒྲིག་བཀོད་དང་ཏའེ་མོན་གསར་གཏོད་རུ་ཁག་ཁྲོད་ཀྱི་གློག་སྒུལ་འཕྲུལ་"
+"འཁོར་འདི་སྔོན་ལ་བཀོལ་སྤྱོད་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:5
+msgid "Free percentage notify threshold"
+msgstr "རིན་མེད་ངང་བརྒྱ་ཆའི་བསྡུར་ཚད་ལ་བརྡ"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:6
+msgid ""
+"Percentage free space threshold for initial warning of low disk space. If "
+"the percentage free space drops below this, a warning will be shown."
+msgstr ""
+"ཁབ་ལེན་གྱི་བར་སྟོང་དམའ་བའི་ཐོག་མའི་ཉེན་བརྡའི་བརྒྱ་ཆའི་བསྡུར་ཚད་མེད་པའི་བར་སྟོ"
+"ང་གི་ཚད "
+"གལ་ཏེ་བརྒྱ་ཆའི་བསྡུར་ཚད་ལས་དམའ་བའི་བར་སྟོང་མར་ཆག་ན་ཉེན་བརྡ་གཏོང་རྒྱུ་རེད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:7
+msgid "Subsequent free percentage notify threshold"
+msgstr "དེའི་རྗེས་ཀྱི་རིན་མེད་བརྒྱ་ཆའི་བསྡུར་ཚད་ཀྱིས་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:8
+msgid ""
+"Specify the percentage that the free disk space should reduce by before "
+"issuing a subsequent warning."
+msgstr ""
+"དེའི་རྗེས་ཀྱི་ཉེན་བརྡ་མ་བཏང་གོང་ལ་རིན་མི་དགོས་པར་ཁབ་ལེན་གྱི་བར་སྟོང་ཇེ་ཉུང་དུ"
+"་གཏོང་དགོས་པའི་བརྒྱ་ཆའི་བསྡུར་ཚད་གཏན་འབེབས་བྱ་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:9
+msgid "Free space no notify threshold"
+msgstr "རང་དབང་གི་བར་སྟོང་ལ་བརྡ་ཐོ་མི་གཏོང་བའི"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:10
+msgid ""
+"Specify an amount in GB. If the amount of free space is more than this, no "
+"warning will be shown."
+msgstr ""
+"GBཡིས་གྲངས་འབོར་ཞིག་གཏན་འབེབས་བྱས་ཡོད། "
+"གལ་ཏེ་རང་དབང་གི་བར་སྟོང་གི་གྲངས་འབོར་འདི་ལས་བརྒལ་ན་ཐ་ཚིག་བསྒྲགས་མི་སྲིད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:11
+msgid "Minimum notify period for repeated warnings"
+msgstr "ཐ་ཚིག་ཡང་ཡང་བསྒྲགས་པའི་ཆེས་དམའ་བའི་བརྡ་ཐོ་གཏོང་བའི་དུས"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:12
+msgid ""
+"Specify a time in minutes. Subsequent warnings for a volume will not appear "
+"more often than this period."
+msgstr ""
+"སྐར་མ་འགའི་ནང་དུ་དུས་ཚོད་ཅིག་གཏན་འཁེལ་བྱ་དགོས། "
+"སྒྲ་གདངས་གཅིག་གི་རྗེས་མཐུད་ཀྱི་ཉེན་བརྡ་དེ་དུས་སྐབས་འདི་ལས་མང་བ་འབྱུང་མི་སྲིད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:13
+msgid "Mount paths to ignore"
+msgstr "སྣང་མེད་དུ་བཞག་པའི་ལམ་ཕྲན་རི་མོ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.housekeeping.gschema.xml.in.h:14
+msgid "Specify a list of mount paths to ignore when they run low on space."
+msgstr ""
+"བར་སྣང་དུ་དམའ་སར་རྒྱུག་སྐབས་སྣང་མེད་དུ་འཇོག་པའི་རི་བོའི་ལམ་ཕྲན་གྱི་རེའུ་མིག་ཅ"
+"ིག་གཏན་འབེབས་བྱས་ཡོད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:3
+msgid "Show OSD notification"
+msgstr "OSDལ་བརྡ་ཐོ་གཏོང་བ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:4
+msgid "Whether an OSD notification is shown to notify about changes"
+msgstr "OSD བརྡ་ཐོ་བཏང་ནས་འགྱུར་ལྡོག་ལ་བརྡ་ཐོ་གཏོང་མིན་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:7
+msgid "Volume step"
+msgstr "སྒྲ་གདངས་ཀྱི་གོམ་རིམ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:8
+msgid "Volume step as percentage of volume."
+msgstr "བོངས་ཚད་ཀྱི་བརྒྱ་ཆའི་བསྡུར་ཚད་ལྟར་གོམ་པ་སྤོས་པ་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:9
+msgid "Toggle touchpad"
+msgstr "ལག་ཐོགས་ཁ་པར་གྱི་ལག་ཐོགས་ཁ་པར།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:10
+msgid "Binding to enable or disable the touchpad."
+msgstr "ཚོད་འཛིན་བྱས་ནས་ལག་ཐོགས་ཁ་པར་གྱི་ནུས་པ་འདོན་སྤེལ་བྱེད་ཐུབ་པའམ་ཡང"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:11
+msgid "Volume mute"
+msgstr "སྒྲ་གདངས་མི་གསལ་བ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:12
+msgid "Binding to mute the system volume."
+msgstr "མ་ལག་གི་བོངས་ཚད་ལ་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:13
+msgid "Volume down"
+msgstr "སྒྲ་གདངས་མར་ཆག་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:14
+msgid "Binding to lower the system volume."
+msgstr "མ་ལག་གི་བོངས་ཚད་ཇེ་དམའ་རུ་གཏོང་བར་ཚོད་འཛིན་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:15
+msgid "Volume up"
+msgstr "གྲངས་འབོར་འཕར་སྣོན་བྱུང་བ"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:16
+msgid "Binding to raise the system volume."
+msgstr "མ་ལག་གི་བོངས་ཚད་ཇེ་མཐོར་གཏོང་བར་ཚོད་འཛིན་བྱེད་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:17
+msgid "Shut down"
+msgstr "ལས་མཚམས་འཇོག"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:18
+msgid "Binding to shut down."
+msgstr "ལས་མཚམས་འཇོག་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:19
+msgid "Open the shutdown management interface"
+msgstr "ལས་མཚམས་འཇོག་པའི་དོ་དམ་གྱི་འབྲེལ་མཐུད་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:20
+msgid "Binding to log out."
+msgstr "ཐོ་འགོད་བྱེད་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:21
+msgid "Eject"
+msgstr "ཕྱིར་འབུད་བྱེད་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:22
+msgid "Binding to eject an optical disc."
+msgstr "འོད་སྡེར་ཕྱིར་འབུད་བྱེད་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:23
+msgid "Home folder"
+msgstr "ཁྱིམ་ཚང་གི་ཡིག་སྣོད"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:24
+msgid "Binding to open the Home folder."
+msgstr "ཁྱིམ་ཚང་གི་ཡིག་སྣོད་ཁ་ཕྱེ་བར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:25
+msgid "Search"
+msgstr "འཚོལ་ཞིབ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:26
+msgid "Binding to launch the search tool."
+msgstr "འཚོལ་ཞིབ་ཡོ་བྱད་སྤྱོད་འགོ་ཚུགས་པར་ཚོད་འཛིན་བྱ་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:27
+msgid "Launch email client"
+msgstr "གློག་རྡུལ་ཡིག་ཟམ་གྱི་མངགས་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:28
+msgid "Binding to launch the email client."
+msgstr "སྦྲག་རྫས་མངགས་བཅོལ་བྱེད་མཁན་ལ་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:29
+msgid "Lock screen"
+msgstr "སྒོ་ལྕགས་རྒྱག་པའི་བརྙན་ཤེལ"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:30
+msgid "Binding to lock the screen."
+msgstr "བརྙན་ཤེལ་ལ་ཟྭ་རྒྱག་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:31
+msgid "Open System Settings"
+msgstr "སྒོ་འབྱེད་མ་ལག་གི་སྒྲིག་བཀོད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:108
+msgid "Open Window Switch"
+msgstr "སྒོ་ཕྱེ་བའི་སྒེའུ་ཁུང་གི་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:32
+msgid "Binding to open system settings."
+msgstr "མ་ལག་གི་སྒྲིག་བཀོད་ཁ་ཕྱེ་བར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:33
+msgid "Open File Manager"
+msgstr "ཡིག་ཆ་དོ་དམ་མི་སྣ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:34
+msgid "Binding to open file manager."
+msgstr "ཡིག་ཆའི་སྤྱི་གཉེར་བར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:35
+msgid "Launch help browser"
+msgstr "རོགས་སྐྱོར་འཚོལ་བཤེར་ཆས་སྤྱོད་འགོ་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:36
+msgid "Binding to launch the help browser."
+msgstr "རོགས་སྐྱོར་བཤེར་ཆས་ཀྱི་ཚོད་འཛིན་རང་བཞིན་ལྡན་པ་རེད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:37
+msgid "Launch calculator"
+msgstr "འཕེན་གཏོང་རྩིས་རྒྱག་འཕྲུལ་ཆས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:38
+msgid "Binding to launch the calculator."
+msgstr "ཚོད་འཛིན་བྱས་ནས་རྩིས་རྒྱག་འཕྲུལ་ཆས་གཏོང་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:39
+msgid "Launch web browser"
+msgstr "དྲ་རྒྱའི་བལྟ་ཀློག་ཆས་སྤྱོད་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:40
+msgid "Binding to launch the web browser."
+msgstr "དྲ་རྒྱའི་བལྟ་ཀློག་ཆས་ལ་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:41
+msgid "Launch media player"
+msgstr "སྨྱན་སྦྱོར་གྱི་བདམས་ཐོན་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:42
+msgid "Binding to launch the media player."
+msgstr "སྨྱན་སྦྱོར་གྱི་བདམས་ཐོན་པ་སྐུལ་སློང་བྱེད་པར་ཚོད་འཛིན"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:43
+msgid "Play (or play/pause)"
+msgstr "རྩེད་མོ་རྩེ་བ་(ཡང་ན་རྩེད་མོ་རྩེ་བ་དང་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:44
+msgid "Binding to start playback (or toggle play/pause)."
+msgstr ""
+"ཕྱིར་ལྡོག་བྱེད་འགོ་ཚུགས་པ་(ཡང་ན་རྩེད་མོ་རྩེ་བ་དང་མཚམས་འཇོག་པ་)ལ་ཚོད་འཛིན་བྱེད"
+"་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:45
+msgid "Pause playback"
+msgstr "ཕྱིར་ལྡོག་བྱེད་མཚམས་འཇོག་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:46
+msgid "Binding to pause playback."
+msgstr "ཕྱིར་ལྡོག་བྱེད་མཚམས་འཇོག་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:47
+msgid "Stop playback"
+msgstr "ཕྱིར་ལྡོག་བྱེད་མཚམས་འཇོག་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:48
+msgid "Binding to stop playback."
+msgstr "ཕྱིར་ལྡོག་བྱེད་མཚམས་འཇོག་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:49
+msgid "Previous track"
+msgstr "སྔོན་ཆད་ཀྱི་བགྲོད་ལམ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:50
+msgid "Binding to skip to previous track."
+msgstr "སྔོན་ཆད་ཀྱི་བགྲོད་ལམ་དུ་བསྐྱོད་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:51
+msgid "Next track"
+msgstr "རྗེས་མའི་བགྲོད་ལམ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:52
+msgid "Binding to skip to next track."
+msgstr "རྗེས་མའི་བགྲོད་ལམ་དུ་བསྐྱོད་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:54
+msgid "Binding to show the screen magnifier"
+msgstr "བརྙན་ཤེལ་གྱི་ཆེ་ཤེལ་ལ་ཚོད་འཛིན་བྱེད་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:56
+msgid "Binding to start the screen reader"
+msgstr "བརྙན་ཤེལ་ཀློག་མཁན་ལ་ཚོད་འཛིན་བྱེད་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:58
+msgid "Binding to show the on-screen keyboard"
+msgstr "བརྙན་ཤེལ་སྟེང་གི་མཐེབ་གཞོང་མངོན་པར་བྱེད་པའི་ཚོད་འཛིན་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:59
+msgid "Terminal"
+msgstr "མཐའ་སྣེ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:60
+msgid "Open mate terminal."
+msgstr "སྒོ་ཕྱེ་བའི་བཟའ་ཟླའི་མཐའ་སྣེ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:61
+msgid "Take a screenshot"
+msgstr "པར་ལེན་འཕྲུལ་ཆས་ཀྱི་པར་རིས་ལ་བལྟས"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:62
+msgid "Binding to take a screenshot."
+msgstr "པར་ལེན་པར་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:63
+msgid "Take a screenshot of a window"
+msgstr "སྒེའུ་ཁུང་གི་པར་རིས་ལ་བལྟས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:64
+msgid "Binding to take a screenshot of a window."
+msgstr "སྒེའུ་ཁུང་གི་པར་རིས་ལ་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:65
+msgid "Take a screenshot of an area"
+msgstr "ས་ཁོངས་ཤིག་གི་པར་རིས་ལ་བལྟས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:66
+msgid "Binding to take a screenshot of an area."
+msgstr "ས་ཁོངས་ཤིག་གི་པར་རིས་ལ་ཚོད་འཛིན་བྱེད་དགོས།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:5
+msgid "Show Displays in Notification Area"
+msgstr "བརྡ་ཁྱབ་ཁུལ་དུ་འགྲེམས་སྟོན་བྱས་པའི་འགྲེམས་སྟོན།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:6
+msgid ""
+"Whether a notification icon with display-related things should be shown in "
+"the panel."
+msgstr ""
+"ཚོགས་ཆུང་ནང་དུ་མངོན་པ་དང་འབྲེལ་བ་ཡོད་པའི་དངོས་པོ་ཡོད་པའི་བརྡ་ཁྱབ་ཀྱི་མཚོན་རྟག"
+"ས་སྟོན་དགོས་མིན་ལ་ཐུག་ཡོད།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:7
+msgid "Do not touch monitor configuration"
+msgstr "ལྟ་ཞིབ་ཚད་ལེན་གྱི་བཀོད་སྒྲིག་ལ་ཐུག་མི་ཆོག"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:8
+msgid ""
+"Usually, ukui-settings-daemon configures internal and external monitors "
+"according to the turn_on_external_monitors_at_startup and "
+"turn_on_laptop_monitor_at_startup settings and determines an appropriate "
+"cloning/side-by-side mode. Setting this key to True disables this, and the "
+"monitor settings are not touched at all (unless there is an explicit user "
+"configuration)."
+msgstr ""
+"སྤྱིར་བཏང་དུ་ukui settings-daemonཡིས་turn_on_external_monitors_at_startup་དང་"
+"turn_on_laptop_monitor_at_startup་སྒྲིག་ལ་གཞིགས་ནས་ཕྱི་ནང་གི་ལྟ་ཞིབ་ཡོ་བྱད་བཀ"
+"ོད་སྒྲིག་བྱས་ཏེ་འོས་འཚམ་གྱི་ཁུ་ལོན་དང་དཔུང་པ་མཉམ་གཤིབ་ཀྱི་རྣམ་པ་ཞིག་གཏན་འཁེལ་"
+"བྱས་ཡོད། Trueལ་ལྡེ་མིག་འདི་བཞག་ན་དེ་མེད་པར་བཟོ་ཐུབ་པ་དང་། "
+"ལྟ་ཞིབ་ཚད་ལེན་གྱི་སྒྲིག་བཀོད་ལ་རྩ་བ་ནས་ཐུག་མི་ཐུབ། "
+"(མངོན་གསལ་གྱི་སྤྱོད་མཁན་བཀོད་སྒྲིག་བྱས་ན་མ་གཏོགས། )"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:9
+msgid "Turn on external monitor after system boot"
+msgstr "མ་ལག་གི་ལྷམ་ཡུ་རིང་གི་རྗེས་ནས་ཕྱི་རོལ་གྱི་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:10
+msgid ""
+"Turn on external monitor after system boot if user plugs in external monitor "
+"on system boot."
+msgstr ""
+"གལ་ཏེ་སྤྱོད་མཁན་གྱིས་མ་ལག་གི་ལྷམ་སྟེང་གི་ཕྱི་རོལ་གྱི་ལྟ་ཞིབ་ཡོ་བྱད་ནང་དུ་བཅུག"
+"་ན། མ་ལག་གི་ལྷམ་ཡུ་རིང་གི་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:11
+msgid "Turn on laptop monitor after system boot"
+msgstr "མ་ལག་གི་ལྷམ་ཡུ་རིང་གི་རྗེས་ནས་ལག་ཐོགས་གློག"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:12
+msgid ""
+"Turn on laptop monitor after system boot if user plugs in external monitor "
+"on system boot."
+msgstr ""
+"གལ་ཏེ་སྤྱོད་མཁན་གྱིས་མ་ལག་གི་ལྷམ་སྟེང་གི་ཕྱི་རོལ་གྱི་ལྟ་ཞིབ་ཡོ་བྱད་ནང་དུ་བཅུག"
+"་ན། མ་ལག་གི་ལྷམ་ཡུ་རིང་གི"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:13
+msgid "File for default configuration for RandR"
+msgstr "ལན་ཏེར་གྱི་ཁ་ཆད་དང་འགལ་བའི་བཀོད་སྒྲིག་ཡིག་ཆ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.xrandr.gschema.xml.in.h:14
+msgid ""
+"The XRandR plugin will look for a default configuration in the file "
+"specified by this key. This is similar to the ~/.config/monitors.xml that "
+"normally gets stored in users' home directories. If a user does not have "
+"such a file, or has one that does not match the user's setup of monitors, "
+"then the file specified by this key will be used instead."
+msgstr ""
+"XRandR pluginཡིས་ལྡེ་མིག་འདིས་གཏན་ཁེལ་བྱས་པའི་ཡིག་ཆའི་ནང་དུ་ཁ་ཆད་དང་འགལ་བའི་བ"
+"ཀོད་སྒྲིག་ཅིག་འཚོལ་རྒྱུ་རེད། "
+"འདི་ནི་སྤྱིར་བཏང་དུ་སྤྱོད་མཁན་གྱི་ཁྱིམ་ཚང་གི་དཀར་ཆག་ནང.xml "
+"དུ་ཉར་ཚགས་བྱས་པའི་~/.config/monitorsདང་འདྲ་མཚུངས་ཡིན། གལ་ཏེ་སྤྱོད་མཁན་ལ་ཡིག་ཆ"
+"་འདི་འདྲ་ཞིག་མེད་པའམ་ཡང་ན་སྤྱོད་མཁན་གྱི་ལྟ་ཞིབ་ཡོ་བྱད་སྒྲིག་འཛུགས་དང་མི་མཐུན་"
+"པའི་ཡིག་ཆ་ཞིག་མེད་ན། "
+"ལྡེ་མིག་འདིས་གཏན་འབེབས་བྱས་པའི་ཡིག་ཆ་དེའི་ཚབ་བྱ་རྒྱུ་རེད།"
+
+#: ../data/ukui-settings-daemon.desktop.in.in.h:1
+msgid "UKUI Settings Daemon"
+msgstr "UKUI Settings Daemon"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:93
+msgid "Unflod Ukui Sidebar"
+msgstr "ཝུའུ་ཁི་ལན་གྱི་ཞོར་ལས་མི་བཟོད་པ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:183
+msgid "Open the system monitor"
+msgstr "མ་ལག་གི་ལྟ་ཞིབ་ཡོ་བྱད་ཁ་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:188
+msgid "Open the internet connectionr"
+msgstr "དྲ་སྦྲེལ་སྦྲེལ་མཐུད་ཡོ་སྟོན་ཁ་ཕྱེ་བ།"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:220
+msgid "Unflod Ukui Search"
+msgstr "ཝུའུ་ཁི་ལན་གྱི་འཚོལ་བཤེར་"
+
+#: ../data/org.ukui.SettingsDaemon.plugins.media-keys.gschema.xml.in.h:225
+msgid "Kylin Display Switch"
+msgstr "ཅིན་ལིན་གྱི་འགྲེམས་སྟོན་གློག་སྒོ།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:16
+msgid "If the night light mode is enabled"
+msgstr "གལ་ཏེ་མཚན་མོའི་འོད་རྣམ་པར་འགྱུར་ཐུབ་ན།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:21
+msgid "Temperature of the display when enabled"
+msgstr "སྒོ་རྒྱག་སྐབས་འགྲེམས་སྟོན་གྱི་དྲོད་ཚད།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:26
+msgid "Use the sunrise and sunset"
+msgstr "ཉི་མ་ཤར་བ་དང་ཉི་མ་ནུབ་པ་བེད་སྤྱོད་བྱ་དགོས།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:31
+msgid "The start time"
+msgstr "ལས་འགོ་ཚུགས་པའི་དུས་ཚོད།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:36
+msgid "The end time"
+msgstr "མཇུག་སྒྲིལ་བའི་དུས་ཚོད།"
+
+#: ./org.ukui.SettingsDaemon.plugins.color.gschema.xml:41
+msgid "The last detected position"
+msgstr "མཇུག་མཐར་ཞིབ་དཔྱད་ཚད་ལེན་བྱས་པའི་གནས་"
+
+#: ./org.ukui.peripherals-mouse.gschema.xml:61
+msgid "Mouse wheel speed"
+msgstr "བྱི་བའི་འཁོར་ལོའི་མྱུར་ཚད།"

@@ -1,0 +1,6 @@
+/etc/
+/usr/bin/
+/usr/lib/*/ukui-settings-daemon/
+/usr/share/dbus-1/
+/lib/udev/rules.d/
+
